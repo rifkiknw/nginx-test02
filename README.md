@@ -1,5 +1,5 @@
 Source from:
-githubnya Eka dan Enginx
+githubnya Eka dan Nginx
 
 
 ## Nginx Dockerfile
